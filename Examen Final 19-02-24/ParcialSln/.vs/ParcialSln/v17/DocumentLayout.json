@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|c:\\users\\claudio\\desktop\\finalpro2\\turnero\\examen final 19-02-24\\parcialsln\\bibliotecaclases\\acceso a datos\\dao\\imp\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\acceso a datos\\dao\\imp\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CA623-E9D1-4067-9E97-95B624B23E7F}|Api\\Api.csproj|c:\\users\\claudio\\desktop\\finalpro2\\turnero\\examen final 19-02-24\\parcialsln\\api\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CA623-E9D1-4067-9E97-95B624B23E7F}|Api\\Api.csproj|solutionrelative:api\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|c:\\users\\claudio\\desktop\\finalpro2\\turnero\\examen final 19-02-24\\parcialsln\\bibliotecaclases\\servicios\\impl\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\servicios\\impl\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|c:\\users\\claudio\\desktop\\finalpro2\\turnero\\examen final 19-02-24\\parcialsln\\bibliotecaclases\\acceso a datos\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\acceso a datos\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|c:\\users\\claudio\\desktop\\finalpro2\\turnero\\examen final 19-02-24\\parcialsln\\bibliotecaclases\\dominio\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\dominio\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|c:\\users\\claudio\\desktop\\finalpro2\\turnero\\examen final 19-02-24\\parcialsln\\bibliotecaclases\\dominio\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\dominio\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|c:\\users\\claudio\\desktop\\finalpro2\\turnero\\examen final 19-02-24\\parcialsln\\bibliotecaclases\\dominio\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\dominio\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|c:\\users\\claudio\\desktop\\finalpro2\\turnero\\examen final 19-02-24\\parcialsln\\bibliotecaclases\\acceso a datos\\dao\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D34D6-975B-494C-B1B4-327AA2BDDE05}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\acceso a datos\\dao\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Dominio\\Turno.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Dominio\\Turno.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Dominio\\Turno.cs",
+              "RelativeToolTip": "BibliotecaClases\\Dominio\\Turno.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:03:49.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Dominio\\Medico.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Dominio\\Medico.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Dominio\\Medico.cs",
+              "RelativeToolTip": "BibliotecaClases\\Dominio\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:52:58.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Dominio\\Detalle.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Dominio\\Detalle.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Dominio\\Detalle.cs",
+              "RelativeToolTip": "BibliotecaClases\\Dominio\\Detalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:48:08.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Servicios\\impl\\Servicio.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Servicios\\impl\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Servicios\\impl\\Servicio.cs",
+              "RelativeToolTip": "BibliotecaClases\\Servicios\\impl\\Servicio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:43:39.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dao.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Acceso a datos\\DAO\\imp\\Dao.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Acceso a datos\\DAO\\imp\\Dao.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Acceso a datos\\DAO\\imp\\Dao.cs",
+              "RelativeToolTip": "BibliotecaClases\\Acceso a datos\\DAO\\imp\\Dao.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:52:02.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\Api\\Controllers\\TurnoController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\Api\\Controllers\\TurnoController.cs",
+              "RelativeToolTip": "Api\\Controllers\\TurnoController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:06:55.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Acceso a datos\\Helper.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Acceso a datos\\Helper.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Acceso a datos\\Helper.cs",
+              "RelativeToolTip": "BibliotecaClases\\Acceso a datos\\Helper.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:05:56.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Acceso a datos\\DAO\\IDao.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Acceso a datos\\DAO\\IDao.cs",
+              "ToolTip": "C:\\Users\\Claudio\\Desktop\\FinalPro2\\turnero\\Examen Final 19-02-24\\ParcialSln\\BibliotecaClases\\Acceso a datos\\DAO\\IDao.cs",
+              "RelativeToolTip": "BibliotecaClases\\Acceso a datos\\DAO\\IDao.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:35:07.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

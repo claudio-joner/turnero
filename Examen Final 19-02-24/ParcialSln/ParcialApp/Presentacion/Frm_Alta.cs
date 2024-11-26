@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ParcialApp.Presentacion
+namespace BibliotecaClases.Presentacion
 {
     public partial class Frm_Alta : Form
     {

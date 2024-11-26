@@ -1,4 +1,4 @@
-﻿namespace ParcialApp.Dominio
+﻿namespace BibliotecaClases.Dominio
 {
     public class Medico
     {

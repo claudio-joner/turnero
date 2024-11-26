@@ -1,0 +1,13 @@
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\obj\Debug\net6.0\BibliotecaClases.csproj.AssemblyReference.cache
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\obj\Debug\net6.0\BibliotecaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\obj\Debug\net6.0\BibliotecaClases.AssemblyInfoInputs.cache
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\obj\Debug\net6.0\BibliotecaClases.AssemblyInfo.cs
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\obj\Debug\net6.0\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\obj\Debug\net6.0\BibliotecaClases.sourcelink.json
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\bin\Debug\net6.0\BibliotecaClases.deps.json
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\bin\Debug\net6.0\BibliotecaClases.dll
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\bin\Debug\net6.0\BibliotecaClases.pdb
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\obj\Debug\net6.0\BibliotecaClases.dll
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\obj\Debug\net6.0\refint\BibliotecaClases.dll
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\obj\Debug\net6.0\BibliotecaClases.pdb
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BibliotecaClases\obj\Debug\net6.0\ref\BibliotecaClases.dll

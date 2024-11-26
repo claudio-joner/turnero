@@ -47,3 +47,10 @@ C:\Users\claud\Desktop\Turnero\turnero\Examen Final 19-02-24\ParcialSln\ParcialA
 C:\Users\claud\Desktop\Turnero\turnero\Examen Final 19-02-24\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
 C:\Users\claud\Desktop\Turnero\turnero\Examen Final 19-02-24\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe
 C:\Users\claud\Desktop\Turnero\turnero\Examen Final 19-02-24\ParcialSln\ParcialApp\obj\Debug\ParcialApp.pdb
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.AssemblyReference.cache
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe.config
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\ParcialApp\obj\Debug\BibliotecaClases.Presentacion.Frm_Alta.resources
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache

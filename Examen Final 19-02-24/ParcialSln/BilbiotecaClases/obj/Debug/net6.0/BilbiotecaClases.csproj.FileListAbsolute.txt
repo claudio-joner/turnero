@@ -1,0 +1,6 @@
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BilbiotecaClases\obj\Debug\net6.0\BilbiotecaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BilbiotecaClases\obj\Debug\net6.0\BilbiotecaClases.AssemblyInfoInputs.cache
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BilbiotecaClases\obj\Debug\net6.0\BilbiotecaClases.AssemblyInfo.cs
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BilbiotecaClases\obj\Debug\net6.0\BilbiotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BilbiotecaClases\obj\Debug\net6.0\BilbiotecaClases.sourcelink.json
+C:\Users\Claudio\Desktop\FinalPro2\turnero\Examen Final 19-02-24\ParcialSln\BilbiotecaClases\obj\Debug\net6.0\BilbiotecaClases.csproj.AssemblyReference.cache

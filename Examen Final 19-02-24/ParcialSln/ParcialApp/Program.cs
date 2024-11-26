@@ -1,11 +1,11 @@
-﻿using ParcialApp.Presentacion;
+﻿using BibliotecaClases.Presentacion;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ParcialApp
+namespace BibliotecaClases
 {
     static class Program
     {

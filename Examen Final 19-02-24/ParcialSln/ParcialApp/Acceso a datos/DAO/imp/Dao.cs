@@ -1,16 +1,17 @@
-﻿using ParcialApp.Acceso_a_datos.DAO;
-using ParcialApp.Dominio;
-using ParcialApp.Servicios;
-using ParcialApp.Servicios.impl;
+﻿using BibliotecaClases.Acceso_a_datos;
+using BibliotecaClases.Dominio;
+using BibliotecaClases.Servicios;
+using BibliotecaClases.Servicios.impl;
 using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Data.SqlClient;
+
+using Microsoft.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ParcialApp.Acceso_a_datos.imp
+namespace BibliotecaClases.Acceso_a_datos.imp
 {
     public class Dao : IDao
     {
@@ -33,7 +34,7 @@ namespace ParcialApp.Acceso_a_datos.imp
             
 
             string sp = "SP_CONTAR_TURNOS";
-            cantTurnos = Helper.ObtenerInstanciaHelper().EjecutarSqlParamInOut(sp,lParametros,paramSalidaCantTurnos);
+            cantTurnos = Helper.ObtenerInstanciaHelper().EjecutarSqlParamInOut(sp, lParametros, paramSalidaCantTurnos);
 
             return cantTurnos;  
         }

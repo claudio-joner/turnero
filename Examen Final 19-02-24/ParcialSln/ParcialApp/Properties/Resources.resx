@@ -118,6 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cadenaConexion" xml:space="preserve">
-    <value>Data Source=DESKTOP-THFRT3G\SQLEXPRESS;Initial Catalog=db_turnos;Integrated Security=True;Trust Server Certificate=True</value>
+    <value>Data Source=localhost;Initial Catalog=db_turnos;Integrated Security=True;Trust Server Certificate=True:Encrypt=False</value>
+  </data>
+  <data name="cadenaConexion1" xml:space="preserve">
+    <value />
   </data>
 </root>

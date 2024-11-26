@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices.WindowsRuntime;
 
-namespace ParcialApp.Dominio
+namespace BibliotecaClases.Dominio
 {
     public class Detalle
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace ParcialApp.Presentacion
+namespace BibliotecaClases.Presentacion
 {
     partial class Frm_Alta
     {

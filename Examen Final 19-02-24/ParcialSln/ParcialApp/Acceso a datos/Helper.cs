@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ParcialApp.Acceso_a_datos.DAO
+namespace BibliotecaClases.Acceso_a_datos
 {
     public class Helper
     {
@@ -17,7 +17,7 @@ namespace ParcialApp.Acceso_a_datos.DAO
 
         public Helper()
         {
-            conexion = new SqlConnection(Properties.Resources.cadenaConexion);
+            conexion = new SqlConnection("Data Source=DESKTOP-THFRT3G\\SQLEXPRESS;Initial Catalog=db_turnos;Integrated Security=True;Trust Server Certificate=True");
         }
 
 

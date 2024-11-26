@@ -61,11 +61,20 @@ namespace ParcialApp.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a Data Source=DESKTOP-THFRT3G\SQLEXPRESS;Initial Catalog=db_turnos;Integrated Security=True;Trust Server Certificate=True.
+        ///   Busca una cadena traducida similar a Data Source=localhost;Initial Catalog=db_turnos;Integrated Security=True;Trust Server Certificate=True:Encrypt=False.
         /// </summary>
         internal static string cadenaConexion {
             get {
                 return ResourceManager.GetString("cadenaConexion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a .
+        /// </summary>
+        internal static string cadenaConexion1 {
+            get {
+                return ResourceManager.GetString("cadenaConexion1", resourceCulture);
             }
         }
     }
